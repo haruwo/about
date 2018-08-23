@@ -6,33 +6,33 @@ Programming, Backend system construction, Problem-solving, Failure-analysis, Non
  
 # Programming languages
 ## Primary
-* Java 1.4 to 8, 10 years over    
-  Purpose: Web api(JSON, XML) with SQL and NOSQL, Async task manager, Service bus ...
-  stream api lover, but scala is more good.
-* C/C++, 8 years (10years ago ...)
-  Purpose: Windows Driver and Middle Ware
-* Shell Script(bash, zsh), 20 years over
-  Purpose: for life and any works.
+* From Java 1.4 to 8, over 10 years of experience
+  Use: Web api(JSON, XML) with SQL and NOSQL, Async task manager, Service bus ...
+  I love stream APIs, and even more Scala
+* C/C++, 8 years (10 years ago ...)
+  Use: Windows Driver and Middle Ware
+* Shell Script(bash, zsh), for more than 20 years
+  Use: for life and any work.
 
 ## Secondly
-* JavaScript ES6, maybe 5years
-  Purpose: node backend, angular service    
-  Not for UI lol
-* Ruby, maybe 3 years
-  Purpose: Installer, Cli tools, 1liner, In vim
+* JavaScript ES6, maybe 5 years
+  Use: node backend, angular service    
+  Nothing related to UI lol
+* Ruby, about 3 years
+  Use: Installer, Cli tools, 1liner, In vim
 * Groovy
-  Purpose: Gradle, Alternative of Shell Script for Multi platform apps
+  Use: Gradle, Alternative of Shell Script for Multi platform apps
 
 ## Hobby
-* Scala, Purpose: Loading test framework on Gatling and Hoby, Loving !!
+* Scala. Use: Loading test frameworks on Gatling and Hoby, I love it !!
 * Kotlin
-* TypeScript, Purpose: node backend, angular service
-* Haskell, Purpose: Xmonad configuration and Hobby
+* TypeScript. Use: node backend, angular service
+* Haskell. Use: Xmonad configuration and Hobby
 * Go, Hate
-* Python, Hate, Purpose: WebLogic installer
+* Python, Hate. Use: WebLogic installer
  
 # Loving softwares
-* Xmonad, Loving !! Gratest for productivity
+* Xmonad, I love it !! Some of the greatest tools for productivity
 * Vim
 * sed
 * jq
