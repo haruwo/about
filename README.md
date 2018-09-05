@@ -2,7 +2,7 @@
 haruwo / srv
 
 # 1liner
-Programming, Backend system construction, Problem-solving, Failure-analysis, Standard component and package that work out of the box, and Coaching
+Programming, Backend system construction, Problem-solving, Failure-analysis, Packaged software construction, and Coaching
  
 # Programming languages
 ## Primary
