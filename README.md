@@ -22,13 +22,14 @@ Programming, Backend system construction, Problem-solving, Failure-analysis, Pac
   Use: Installer, Cli tools, 1liner, In vim
 * Groovy
   Use: Gradle, Alternative of Shell Script for Multi platform apps
+* Go, 1 year, Hate
+  Use: backend (API server), training of new employees.
 
 ## Hobby
 * Scala. Use: Loading test frameworks on Gatling and Hoby, I love it !!
 * Kotlin
 * TypeScript. Use: node backend, angular service
 * Haskell. Use: Xmonad configuration and Hobby
-* Go, Hate
 * Python, Hate. Use: WebLogic installer
  
 # Loving softwares
