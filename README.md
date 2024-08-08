@@ -6,7 +6,9 @@ Programming, Backend system construction, Problem-solving, Failure-analysis, Pac
  
 # Programming languages
 ## Primary
-* From Java 1.4 to 8, over 10 years of experience
+* Go since 2019
+  Use: Web api, microservices, serverless ...
+* Java over 10 years of experience
   Use: Web api(JSON, XML) with SQL and NOSQL, Async task manager, Service bus ...
   I love stream APIs, and even more Scala
 * C/C++, 8 years (10 years ago ...)
@@ -18,14 +20,14 @@ Programming, Backend system construction, Problem-solving, Failure-analysis, Pac
 * JavaScript ES6, maybe 5 years
   Use: node backend, angular service    
   Nothing related to UI lol
-* Ruby, about 3 years
+* Ruby, about 5 years
   Use: Installer, Cli tools, 1liner, In vim
 * Groovy
   Use: Gradle, Alternative of Shell Script for Multi platform apps
-* Go, 1 year, Hate
-  Use: backend (API server), training of new employees.
 
 ## Hobby
+* Rust
+* C++ on Arduino
 * Scala. Use: Loading test frameworks on Gatling and Hoby, I love it !!
 * Kotlin
 * TypeScript. Use: node backend, angular service
